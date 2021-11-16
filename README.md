@@ -1,2 +1,3 @@
-# SW_Miniproject_C
-Software Mini Project Using C
+# M1_Game_Tictactoe
+
+Software Tic tac toe Mini Project Using C
