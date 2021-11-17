@@ -1,3 +1,3 @@
-# M1_Game_Tictactoe
+# M1_Application_Banking-Management-System
 
 Banking Management System Using C
