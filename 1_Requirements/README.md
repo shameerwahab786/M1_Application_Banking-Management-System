@@ -19,7 +19,9 @@
 
 ## Disadvantages
 -> Chances of Bank going Bankrupt
+
 -> Risk of Fraud and Robberies
+
 -> Risk of Public Debt
 
 ## SWOT Analysis
