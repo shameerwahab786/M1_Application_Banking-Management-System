@@ -1,4 +1,4 @@
 Behavior Diagrams
 
 
-https://www.mikrora.com/wp-content/uploads/2019/04/services_uml_diagram_atm_system_7.png#.YZqA2KNjWC4.link
+![services_uml_diagram_atm_system_7](https://user-images.githubusercontent.com/66585290/142772525-5409a6da-f949-44e5-8d9f-a005030dfdba.png)
