@@ -82,10 +82,20 @@
 ## 4W's and 1 H
 
 ### WHO
+    Any person from a student to a professional can take up this project as there is a huge scope to implementing more and more functions and features within a function and make the code more effecient and robust.
+
 ### WHAT
+    During the process of analysis of the code, enthusiasts can figure out how to work on a real-life problem, find solutions to any problems and have workarounds for it. Analysis of how to implement a problem and apply the theoritical knowledge.
+    
 ### WHEN 
+    There is no particular moment to learn. This can be implemented anytime and is easy to implement on any IDE or Compiler.
+    
 ### WHERE
+    As metioned earlier, this can be used for analysis and for better understanding of the c-language.
+    
 ### HOW 
+    The objective is to implement theory to practise.
+
 
 ## High Level Requirements
        1. ID          : HLR_01
