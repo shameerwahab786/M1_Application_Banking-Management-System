@@ -24,6 +24,10 @@
 
 -> Risk of Public Debt
 
+## State of art/Research
+
+The bank's fundamental processing systems are being modernised. It also analyses the reasons that drive modernisation, as well as essential success criteria and conversion methodologies. For a more comprehensive look at the Indian core systems market.
+
 ## SWOT Analysis
 
 ### Strengths
