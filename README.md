@@ -9,4 +9,4 @@ Banking Management System Using C
 
 ![Code Quality Score](https://api.codiga.io/project/29999/score/svg)
 
-![Code Grade]https://api.codiga.io/project/29999/status/svg
+![Code Grade](https://api.codiga.io/project/29999/status/svg)
