@@ -7,3 +7,6 @@ Banking Management System Using C
 [![Code Quality - Static Code - Cppcheck](https://github.com/shameerwahab786/M1_Application_Banking-Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shameerwahab786/M1_Application_Banking-Management-System/actions/workflows/cppcheck.yml)
 
 
+![Code Quality Score](https://api.codiga.io/project/29999/score/svg)
+
+![Code Grade]https://api.codiga.io/project/29999/status/svg
