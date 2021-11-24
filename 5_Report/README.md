@@ -27,9 +27,34 @@
 
 -> Risk of Public Debt
 
-## State of art/Research
+## Features of a bank
+
+
+#1 -> Deals with money
+#2 -> Provide loans
+#3 -> Identity
+#4 -> Withdrawal and payment facilities
+#5 -> Internet services
+#6 -> Business
+#7 -> Increasing functionality
+#8 -> Branches at different locations
+#9 -> Bank can be a company or an individual providing banking services
+#10 -> Commercialized
+
+## State of art
+
+The initial prototype banks were the world's merchants, who provided grain loans to farmers and traders who transported products between towns. Around 2000 BC, Assyria, India, and Sumeria were involved. Later, in ancient Greece and the Roman Empire, temple-based lenders provided loans while also receiving deposits and changing money. Money lending is also documented in archaeology from this time period in ancient India and China.
 
 The bank's fundamental processing systems are being modernised. It also analyses the reasons that drive modernisation, as well as essential success criteria and conversion methodologies. For a more comprehensive look at the Indian core systems market.
+
+## Research
+
+
+![history-of-banking-8-638 (1)](https://user-images.githubusercontent.com/66585290/143299691-8e9e5bef-0442-4386-a8b5-415d16b6d0d9.jpg)
+
+![evolution1](https://user-images.githubusercontent.com/66585290/143299942-083dff33-0a1b-45a1-9d82-e38a24fcc2f1.jpg)
+
+
 
 ## SWOT Analysis
 
@@ -123,6 +148,8 @@ The bank's fundamental processing systems are being modernised. It also analyses
        
        2. ID          : LLR_02
           DESCRIPTION : Formulas
+
+
 
 
 ## HIGH_LEVEL_DIAGRAM 
