@@ -10,3 +10,16 @@ Banking Management System Using C
 ![Code Quality Score](https://api.codiga.io/project/29999/score/svg)
 
 ![Code Grade](https://api.codiga.io/project/29999/status/svg)
+
+
+
+# FOLDER STRUCTURE:
+
+| Folder |	Description |
+|--------| -------------|
+|1_Requirements|	Detailed documentation of requirements and research|
+|2_Architecture|	Structural and Behavioural diagrams|
+|3_Implementation|	source codes and test cases|
+|4_TestPlanAndOutput|	Expected and Actual Outputs|
+|5_Report|	Report of the project|
+|6_ImagesAndVideos|	Image and video of output execution|
